@@ -2,7 +2,7 @@
 
 This Python script uses Google to find subdomains for a given domain.
 
-#Usage
+# Usage
 
 Clone the repository:
 

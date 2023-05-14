@@ -23,7 +23,7 @@ Clone the repository:
 # Requirements
 
 - Python 3
-- 
+
 - requests module
 
 # Installation
